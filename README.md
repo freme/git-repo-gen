@@ -3,6 +3,12 @@ Generate (possibly large) git repos
 
 The basic idea is to create a large git repository, consisting of compilable C++ code to include load testing by compiling the code.
 
+See https://github.com/larsxschneider/git-repo-analysis
+
+# Blogposts
+- https://larsxschneider.github.io/2016/09/21/large-git-repos
+- https://samthursfield.wordpress.com/2016/03/16/enourmous-git-repositories/
+
 # what is a large repo
 
 According to https://larsxschneider.github.io/2016/09/21/large-git-repos
